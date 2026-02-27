@@ -135,7 +135,7 @@ uint64_t sum_list(node_t *h) {
   return sum;
 }
 
-int main_example2() {
+int main() {
   insert_sorted(1);
   insert_sorted(3);
   insert_sorted(5);
