@@ -1,4 +1,4 @@
-# Install script for directory: /home/cmpt201/cmpt201-coursework/lab9
+# Install script for directory: /home/cmpt201/cmpt201-coursework/lab9a
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/cmpt201/cmpt201-coursework/lab9/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/cmpt201/cmpt201-coursework/lab9a/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
